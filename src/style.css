@@ -1,0 +1,32 @@
+/* html {
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+} */
+body{
+  width: 1200px;
+  font-family: sans-serif;
+  font-weight: bold;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  /* color: #333; */
+}
+
+h1{
+  text-align: center;
+}
+.header-container {
+  width: 100%;
+  padding: 15px 0;
+  background-color: lightskyblue;
+}
+.header-btn{
+  display: flex;
+  justify-content: space-evenly;
+
+}
